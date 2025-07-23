@@ -35,13 +35,14 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
-
+<div>
 <b><u>💡 What the Chatbot Does:</u></b>
 • Collects user input (you can search anything)
 • Responds to every asked questions.
 • You can attach any kind of PDF File here.
 • It can read and answer anything into the PDF File.
 • After adding PDF, there is a delete button arrives also for delete the PDF. 
+</div>
 <hr/>
 <div>
 <b><u>🛠️ Tech Stack:</u></b>
