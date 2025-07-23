@@ -34,3 +34,18 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+<b><u>💡 What the Chatbot Does:</u></b>
+• Collects user input (you can search anything)
+• Responds to every asked questions.
+• You can attach any kind of PDF File here.
+• It can read and answer anything into the PDF File.
+• After adding PDF, there is a delete button arrives also for delete the PDF. 
+<hr/>
+
+<b><u>🛠️ Tech Stack:</u></b>
+• Next.js
+• Google AI Studio (Gemini API)
+• Typescript, minor Javascript
+• Tailwind CSS
