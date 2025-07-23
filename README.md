@@ -42,8 +42,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 • You can attach any kind of PDF File here.
 • It can read and answer anything into the PDF File.
 • After adding PDF, there is a delete button arrives also for delete the PDF. 
-</div>
-<hr/>
+</div><hr/>
 <div>
 <b><u>🛠️ Tech Stack:</u></b>
 <ul>
