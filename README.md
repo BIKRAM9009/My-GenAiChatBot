@@ -45,7 +45,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <hr/>
 
 <b><u>🛠️ Tech Stack:</u></b>
-• Next.js
-• Google AI Studio (Gemini API)
-• Typescript, minor Javascript
-• Tailwind CSS
+<ul>
+<li> Next.js</li>
+<li> Google AI Studio (Gemini API)</li>
+<li>Typescript, minor Javascript</li>
+<li>Tailwind CSS</li>
+</ul>
